@@ -1,5 +1,5 @@
 # ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-# Name:     UNIT CIRCEL. SINE AND COSINE FUNCTIONS
+# Name:     UNIT CIRCLE. SINE AND COSINE FUNCTIONS
 # Author:   Iván Mauricio Cely Toro
 # Date:     07-04-2020
 # e-mail:   mauriciocelytoro@hotmail.com

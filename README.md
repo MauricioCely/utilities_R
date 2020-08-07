@@ -9,9 +9,9 @@ Here you find the R scripts I employed in my [website](mauriciocely.github.io) p
 
 ## Animations
 
-- **[Duality animation]()**
+- **[Duality animation](https://github.com/MauricioCely/utilities_R/tree/master/animations/duality)** 
 
 ## Others
 
-- **[Watermark for my photos]()**
-- **[Time lapse with R]()**
+- **[Watermark for my photos](https://github.com/MauricioCely/utilities_R/tree/master/others/watermark_photo)** *Make your own photography logo using `R`*.
+- **[Time lapse with R](https://github.com/MauricioCely/utilities_R/tree/master/others/time-lapse)** *Create a time-lapse video with `R`*
