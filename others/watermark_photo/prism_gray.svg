@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (6e3e5246a0, 2020-05-07)"
+   sodipodi:docname="prism2.svg"
+   id="svg12"
+   preserveAspectRatio="xMidYMid meet"
+   viewBox="0 0 960.000000 960.000000"
+   height="960.000000pt"
+   width="960.000000pt"
+   version="1.0">
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     inkscape:current-layer="g10"
+     inkscape:window-maximized="1"
+     inkscape:window-y="27"
+     inkscape:window-x="0"
+     inkscape:cy="640"
+     inkscape:cx="640"
+     inkscape:zoom="0.5390625"
+     showgrid="false"
+     id="namedview14"
+     inkscape:window-height="836"
+     inkscape:window-width="1600"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <metadata
+     id="metadata2">
+Created by potrace 1.16, written by Peter Selinger 2001-2019
+<rdf:RDF>
+  <cc:Work
+     rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type
+       rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:title></dc:title>
+  </cc:Work>
+</rdf:RDF>
+</metadata>
+  <g
+     id="g10"
+     stroke="none"
+     fill="#000000"
+     transform="translate(0.000000,960.000000) scale(0.100000,-0.100000)">
+    <path
+       style="fill:#666666"
+       id="path4"
+       d="M1897 6808 c6 -7 40 -52 77 -100 l67 -88 2355 -2 2355 -3 -28 -40 c-16 -22 -357 -530 -758 -1130 -980 -1466 -1165 -1740 -1172 -1740 -4 0 -50 66 -102 148 -53 81 -198 303 -323 495 -399 612 -591 910 -658 1017 l-65 105 -137 0 -138 0 137 -207 c74 -115 161 -247 192 -295 31 -49 129 -199 217 -335 89 -137 318 -489 509 -783 191 -294 353 -541 361 -549 11 -12 50 43 249 345 459 695 571 866 710 1077 77 116 275 417 440 667 164 250 409 622 544 825 309 468 391 594 391 600 0 3 -1177 5 -2616 5 -2092 0 -2614 -3 -2607 -12z" />
+    <path
+       style="fill:#999999"
+       id="path6"
+       d="M7289 6657 c-59 -89 -209 -317 -334 -507 -125 -190 -288 -438 -363 -553 -76 -114 -200 -303 -277 -420 -309 -468 -469 -712 -597 -907 -74 -113 -296 -450 -493 -750 -197 -300 -374 -569 -393 -599 -28 -44 -36 -51 -46 -40 -7 8 -166 249 -352 536 -186 288 -439 677 -562 865 -122 189 -283 435 -356 548 -73 113 -202 311 -286 440 -84 129 -182 279 -216 333 l-64 97 1448 0 1448 0 67 103 c37 57 67 107 67 110 0 4 -774 7 -1720 7 -1080 0 -1720 -4 -1720 -10 0 -5 343 -526 763 -1157 419 -631 926 -1395 1126 -1696 291 -438 367 -545 376 -535 7 7 165 240 351 518 395 588 743 1107 1006 1497 701 1043 795 1183 1301 1935 125 185 227 339 227 342 0 3 -66 6 -147 6 l-148 0 -106 -163z" />
+    <path
+       style="fill:#cccccc"
+       id="path8"
+       d="M7767 6381 l-107 -6 -88 -130 c-48 -71 -238 -353 -421 -625 -184 -272 -362 -535 -396 -585 -55 -81 -435 -643 -1256 -1860 -699 -1036 -701 -1038 -714 -1023 -7 7 -196 288 -420 623 -483 722 -996 1489 -1721 2570 -291 435 -530 796 -532 803 -3 9 405 12 2017 12 l2020 0 70 100 c39 56 71 103 71 105 0 3 -1038 5 -2306 5 -1935 0 -2305 -2 -2301 -14 3 -7 34 -53 69 -102 61 -85 533 -786 1078 -1599 144 -214 478 -713 743 -1108 265 -394 648 -964 851 -1267 363 -540 369 -549 386 -527 9 12 171 252 360 532 189 281 385 571 435 645 51 74 168 248 260 385 427 633 516 764 651 965 80 118 431 638 780 1154 349 517 634 943 634 948 0 4 -12 7 -27 6 -16 -1 -76 -4 -136 -7z" />
+  </g>
+</svg>
